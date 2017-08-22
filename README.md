@@ -2,11 +2,17 @@
 ## The STR Viewing App
 
 S. Faith 
+
 NC State University
+
 22 Aug 17
+
 safaith@ncsu.edu
+
 www.genomicidlab.com
-popseq.cvm.ncsu.edu
+
+https://popseq.cvm.ncsu.edu
+
 
 
 ## Description
