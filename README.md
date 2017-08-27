@@ -1,3 +1,5 @@
+![logo](STRGazer_pic.tiff)
+
 # STRGazer 
 ## The STR Viewing App
 
@@ -35,7 +37,7 @@ The RShiny app is designed for use on a local machine that must have the followi
 -- (DT)
 
 
-![logo](/STRGazer_pic.tiff)
+
 
 
 ## Using the App
