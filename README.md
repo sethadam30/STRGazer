@@ -34,6 +34,10 @@ The RShiny app is designed for use on a local machine that must have the followi
 -- (tidyr)
 -- (DT)
 
+
+![logo](STRGazer_pic.tiff)
+
+
 ## Using the App
 Use the "run" feature of your local R environment to launch the app.  If a web browser is not opened with the GUI, select "Open in Browser" from the window.  Your computer's default browser will be used.
 
