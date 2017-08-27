@@ -1,4 +1,4 @@
-![logo](STRGazer_pic.tiff)
+![Alt text](STRGazer_pic.tiff?raw=true "Optional Title")
 
 # STRGazer 
 ## The STR Viewing App
