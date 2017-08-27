@@ -1,5 +1,3 @@
-![Alt text](STRGazer_pic.tiff?raw=true "Optional Title")
-
 # STRGazer 
 ## The STR Viewing App
 
@@ -15,6 +13,7 @@ www.genomicidlab.com
 
 https://popseq.cvm.ncsu.edu
 
+![Alt text](STRGazer_pic.jpg)
 
 
 ## Description
