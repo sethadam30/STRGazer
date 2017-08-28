@@ -24,7 +24,7 @@ from next generation sequencing (NGS) data.
 
 ## Installation
 Download the app3.R file from this Github repo.
-Ensure your computer has R and the app decencies (libraries) installed.
+Ensure your computer has R and the app decencies (packages) installed.
 ### Dependencies
 The RShiny app is designed for use on a local machine that must have the following:
 * R (https://www.r-project.org)
