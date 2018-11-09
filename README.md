@@ -7,11 +7,10 @@ NC State University
 
 22 Aug 17
 
-safaith@ncsu.edu
+faiths@battelle.org
 
 www.genomicidlab.com
 
-https://popseq.cvm.ncsu.edu
 
 ![Alt text](STRGazer_pic.jpg)
 
