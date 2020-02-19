@@ -7,9 +7,9 @@ NC State University
 
 22 Aug 17
 
-faiths@battelle.org
+faith.3@osu.edu
 
-www.genomicidlab.com
+
 
 
 ![Alt text](STRGazer_pic.jpg)
